@@ -31,3 +31,37 @@
     transform: rotate(360deg);
   }
 }
+
+
+.character_image{
+  width: 40%;
+
+}
+
+.episode-container{
+  padding: 20px;
+  height: 150px;
+  float: left;
+  width: 25%;
+  margin: 2%;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.character-container{
+  padding: 20px;
+  height: 300px;
+  float: left;
+  width: 25%;
+  margin: 2%;
+  border-style: solid;
+  border-width: 1px;
+}
+
+/* .load-more{
+  background: #656565 !important;
+} */
+
+.home-container{
+  padding: 50px;
+}
